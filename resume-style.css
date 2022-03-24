@@ -1,0 +1,49 @@
+.resume-title {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Open sans', sans-serif;
+}
+
+.resume-subtitle {
+    font-family: 'Open sans', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+.resume-date {
+    font-family: 'Lato', sans-serif;
+    display: inline;
+    float: right;
+    color: white;
+    background-color: #5bc0de;
+    border-radius: 3px;
+    margin-top: -5%;
+    margin-right: 10px;
+}
+
+.resume-aside {
+    border-left: 1px solid #f1f1ff;
+    padding-left: 20px;
+}
+
+.skills-item {
+    margin-bottom: 15px;
+    border: 1px solid #f1f1ff;
+    border-radius: 4px;
+    color: #ffffff;
+    position: relative;
+}
+
+.skills-bg {
+    padding: 2px 5px;
+    display: block;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.photoshop {
+    width: 60%;
+    background-color: #5db85c;
+}
